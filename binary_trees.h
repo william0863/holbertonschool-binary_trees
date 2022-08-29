@@ -1,5 +1,5 @@
-#ifndef SORT_HEADER
-#define SORT_HEADER
+#ifndef BINARYTREES_HEADER
+#define BINARYTREES_HEADER
 
 #include <stdio.h>
 #include <stdlib.h>
